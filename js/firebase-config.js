@@ -14,7 +14,8 @@ const firebaseConfig = {
   projectId:         "budget-mensuel-52aa9",
   storageBucket:     "budget-mensuel-52aa9.firebasestorage.app",
   messagingSenderId: "675021368593",
-  appId:             "1:675021368593:web:7479541e6c105427afb0b0"
+  appId:             "1:675021368593:web:7479541e6c105427afb0b0",
+  measurementId: "G-YBRXR7PVHP"
 };
 
 const app      = initializeApp(firebaseConfig);
