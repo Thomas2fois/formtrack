@@ -12,8 +12,7 @@ import {
 // =====================================================
 
 const INITIAL_DATA = {
-  // UID Google de Thomas → à remplir après premier login (voir README)
-  "THOMAS_UID": {
+  "vpSJLnwZN9gqvAs73xfIzqje72m2": {
     displayName: "Thomas",
     goal: 75,
     weights: [
@@ -38,8 +37,7 @@ const INITIAL_DATA = {
     mensur: []
   },
 
-  // UID Google d'Anna → à remplir après premier login
-  "ANNA_UID": {
+  "j2gmK01qHhbVpEzgdAuUET1knjf2": {
     displayName: "Anna",
     goal: 65,
     weights: [
